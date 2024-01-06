@@ -38,10 +38,10 @@ For example:
 
 ## Files Included
 
-- check number.py`: Python script for number checking.
+- check number.py`: Python program for number checking.
 - `README.md`: This file providing information about the program.
 
-## Contributors
+## Contributor
 
 - Precious Omachoko Ochimana. 
 
